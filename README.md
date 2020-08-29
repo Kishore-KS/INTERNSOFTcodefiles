@@ -7,3 +7,7 @@ This repo contains the day to day excercises performed at AiRobosoft Machine Lea
 2)Exception handling
 
 3)Modules and sqlite3
+
+4)Numpy
+
+5)Pandas
