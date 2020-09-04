@@ -11,3 +11,7 @@ This repo contains the day to day excercises performed at AiRobosoft Machine Lea
 4)Numpy
 
 5)Pandas
+
+6)Matplotlib
+
+7)Linear Regression
